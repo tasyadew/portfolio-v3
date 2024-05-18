@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Categories | Natasya Nadhira</title>
-<meta name="keywords" content="">
-<meta name="description" content="">
+<title>UTM Final Year Project Assessment | Natasya Nadhira</title>
+<meta name="keywords" content="ui/ux design">
+<meta name="description" content="UTM Final Year Project Assessment - Natasya Nadhira">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:50212/categories/">
+<link rel="canonical" href="http://localhost:50212/projects/utm-fyp-assessment/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.4599eadb9eb2ad3d0a8d6827b41a8fda8f2f4af226b63466c09c5fddbc8706b7.css" integrity="sha256-RZnq256yrT0KjWgntBqP2o8vSvImtjRmwJxf3byHBrc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:50212/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:50212/favicon-16x16.png">
@@ -18,8 +18,7 @@
 <link rel="mask-icon" href="http://localhost:50212/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:50212/categories/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:50212/categories/">
+<link rel="alternate" hreflang="en" href="http://localhost:50212/projects/utm-fyp-assessment/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +58,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -103,12 +102,40 @@
     </nav>
 </header>
 <main class="main">
-<header class="page-header">
-    <h1>Categories</h1>
-</header>
 
-<ul class="terms-tags">
-</ul>
+<article class="post-single">
+  <header class="post-header">
+    <div class="breadcrumbs"><a href="http://localhost:50212/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:50212/projects/">Projects</a></div>
+    <h1 class="post-title entry-hint-parent">
+      UTM Final Year Project Assessment
+    </h1>
+    <div class="post-meta">0 min
+
+</div>
+  </header> 
+<figure class="entry-cover"><img loading="eager" src="http://localhost:50212/img/utm-fyp-thumbnail.png" alt="">
+        
+</figure>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:50212/tags/ui/ux-design/">Ui/Ux Design</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="prev" href="http://localhost:50212/projects/rock-paper-scissor-sv/">
+    <span class="title">« Prev</span>
+    <br>
+    <span>Rock Paper Scissor (Stardew Edition)</span>
+  </a>
+  <a class="next" href="http://localhost:50212/projects/utmexpress/">
+    <span class="title">Next »</span>
+    <br>
+    <span>UTMExpress</span>
+  </a>
+</nav>
+
+  </footer>
+</article>
     </main>
     
 <footer class="footer">
@@ -179,6 +206,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

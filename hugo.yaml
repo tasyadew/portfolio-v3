@@ -1,9 +1,13 @@
-baseURL: https://example.org/
+baseURL: https://tasyadew.com/
 languageCode: en-us
 title: Natasya Nadhira
 theme: ["PaperMod"]
 
 params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
   profileMode:
     enabled: true
     title: "Hello" # optional default will be site title

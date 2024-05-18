@@ -2,14 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:50212/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/penguin-king/penguin-king/</loc>
+    <loc>http://localhost:50212/projects/flicktix/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:50212/tags/game-development/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:50212/projects/penguin-king/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:50212/</loc>
+  </url><url>
+    <loc>http://localhost:50212/projects/</loc>
+  </url><url>
+    <loc>http://localhost:50212/projects/recyclon/</loc>
+  </url><url>
+    <loc>http://localhost:50212/projects/rock-paper-scissor-sv/</loc>
+  </url><url>
+    <loc>http://localhost:50212/tags/</loc>
+  </url><url>
+    <loc>http://localhost:50212/tags/ui/ux-design/</loc>
+  </url><url>
+    <loc>http://localhost:50212/projects/utm-fyp-assessment/</loc>
+  </url><url>
+    <loc>http://localhost:50212/projects/utmexpress/</loc>
+  </url><url>
+    <loc>http://localhost:50212/projects/yas-travel/</loc>
   </url>
 </urlset>
