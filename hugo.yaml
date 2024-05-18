@@ -1,0 +1,27 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Natasya Nadhira
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hello" # optional default will be site title
+    subtitle: "This is subtitle This is subtitle This is subtitle This is subtitle This is subtitle This is subtitle This is subtitle"
+    # imageUrl: "<image link>" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    buttons:
+      - name: Projects
+        url: "/projects"
+      - name: My Digital Garden
+        url: "https://notes.tasyadew.com/"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/tasyadew"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/natasyanadhira"
+    - name: "email"
+      url: "mailto:hi@tasyadew.com"
