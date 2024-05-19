@@ -3,19 +3,23 @@ languageCode: en-us
 title: Natasya Nadhira
 theme: ["PaperMod"]
 
+menu:
+  main:
+    - identifier: "tags"
+      name: "Tags"
+      url: "/tags/"
+      weight: 1
+
 params:
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
+  hideTags: false
   profileMode:
     enabled: true
-    title: "Hello" # optional default will be site title
-    subtitle: "This is subtitle This is subtitle This is subtitle This is subtitle This is subtitle This is subtitle This is subtitle"
-    # imageUrl: "<image link>" # optional
-    # imageTitle: "<title of image as alt>" # optional
-    # imageWidth: 120 # custom size
-    # imageHeight: 120 # custom size
+    title: "Hello! I'm Tasya 👋🏻"
+    subtitle: "I love to work with Artificial Intelligence, Data, Computer Vision, Augmented Reality, and 3D graphics"
     buttons:
       - name: Projects
         url: "/projects"
