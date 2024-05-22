@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/3d-modelling/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/flicktix/</loc>
@@ -15,6 +17,10 @@
     <loc>http://localhost:1313/projects/penguin-king/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/personal-portfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal-project/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
@@ -33,6 +39,8 @@
     <loc>http://localhost:1313/projects/utm-fyp-assessment/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/utmexpress/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/yas-travel/</loc>
   </url>
