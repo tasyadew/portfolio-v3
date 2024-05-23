@@ -16,3 +16,4 @@ tags: ["Web Development", "3D Modelling", "Personal Project"]
 - [Three.js](https://threejs.org/) for rendering 3D model to the website
 - [Mixamo](https://www.mixamo.com/) for rigging 3D model
 - [Blender](https://www.blender.org/) for creating 3D model
+- [Cloudflare Pages](https://pages.cloudflare.com/) for free static web hosting
