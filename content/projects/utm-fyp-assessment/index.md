@@ -6,4 +6,5 @@ cover:
     responsiveImages: false
 draft: false
 tags: ["UI/UX Design", "University Project"]
+weight: 9
 ---

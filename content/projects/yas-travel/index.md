@@ -7,6 +7,7 @@ cover:
     responsiveImages: false
 draft: false
 tags: ["UI/UX Design", "Google Course Project"]
+weight: 10
 ---
 
 ## View My Work

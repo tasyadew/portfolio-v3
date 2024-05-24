@@ -7,6 +7,7 @@ cover:
     responsiveImages: false
 draft: false
 tags: ["Game Development", "University Project"]
+weight: 1
 ---
 
 ## Play the game

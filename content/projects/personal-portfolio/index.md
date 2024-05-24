@@ -7,6 +7,7 @@ cover:
     responsiveImages: false
 draft: false
 tags: ["Web Development", "3D Modelling", "Personal Project"]
+weight: 2
 ---
 
 ## Tech Stack
