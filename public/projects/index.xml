@@ -29,6 +29,13 @@
       <description></description>
     </item>
     <item>
+      <title>Frogger Blog</title>
+      <link>http://localhost:1313/projects/frogger-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/frogger-blog/</guid>
+      <description>A blog for my university course on Human-Computer Interaction</description>
+    </item>
+    <item>
       <title>UTM Final Year Project Assessment</title>
       <link>http://localhost:1313/projects/utm-fyp-assessment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

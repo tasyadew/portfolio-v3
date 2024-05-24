@@ -2,13 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/projects/penguin-king/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/personal-portfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/rock-paper-scissor-sv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/frogger-blog/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/utm-fyp-assessment/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/utmexpress/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/recyclon/</loc>
-  </url><url>
     <loc>http://localhost:1313/projects/flicktix/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/recyclon/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/yas-travel/</loc>
   </url><url>
@@ -22,17 +30,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/google-course-project/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/penguin-king/</loc>
+    <loc>http://localhost:1313/tags/human-computer-interaction/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/personal-portfolio/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/personal-project/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/rock-paper-scissor-sv/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>

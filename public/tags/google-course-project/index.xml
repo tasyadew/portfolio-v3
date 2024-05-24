@@ -8,17 +8,17 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/google-course-project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Recyclon</title>
-      <link>http://localhost:1313/projects/recyclon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/recyclon/</guid>
-      <description>UI/UX tasks to fulfill requirements for the Google UX Design Certificate.</description>
-    </item>
-    <item>
       <title>FlickTix</title>
       <link>http://localhost:1313/projects/flicktix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/flicktix/</guid>
+      <description>UI/UX tasks to fulfill requirements for the Google UX Design Certificate.</description>
+    </item>
+    <item>
+      <title>Recyclon</title>
+      <link>http://localhost:1313/projects/recyclon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/recyclon/</guid>
       <description>UI/UX tasks to fulfill requirements for the Google UX Design Certificate.</description>
     </item>
     <item>
