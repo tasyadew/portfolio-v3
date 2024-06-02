@@ -12,7 +12,7 @@ weight: 7
 
 ## View the blog
 
-Link: [Frogger Blog](http://frogger.tasyadew.com)
+Link: [Frogger Blog](https://frogger.tasyadew.com)
 
 ## About Frogger Blog
 
