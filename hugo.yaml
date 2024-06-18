@@ -27,7 +27,7 @@ params:
     buttons:
       - name: Projects
         url: "/projects"
-      - name: My Digital Garden
+      - name: My Digital Notes
         url: "https://notes.tasyadew.com/"
 
   socialIcons: # optional
