@@ -4,6 +4,8 @@
   <url>
     <loc>http://localhost:1313/projects/penguin-king/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/dookie-server/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/personal-portfolio/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/rock-paper-scissor-sv/</loc>
@@ -26,6 +28,10 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/cloud-computing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/devops/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/game-development/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/google-course-project/</loc>
@@ -33,6 +39,8 @@
     <loc>http://localhost:1313/tags/human-computer-interaction/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/personal-project/</loc>
   </url><url>
