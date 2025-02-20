@@ -15,39 +15,11 @@
       <description>A blog for my university course on Human-Computer Interaction</description>
     </item>
     <item>
-      <title>UTM Final Year Project Assessment</title>
-      <link>http://localhost:1313/projects/utm-fyp-assessment/</link>
+      <title>Web Designs Collection</title>
+      <link>http://localhost:1313/projects/web-designs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/utm-fyp-assessment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UTMExpress</title>
-      <link>http://localhost:1313/projects/utmexpress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/utmexpress/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FlickTix</title>
-      <link>http://localhost:1313/projects/flicktix/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/flicktix/</guid>
-      <description>UI/UX tasks to fulfill requirements for the Google UX Design Certificate.</description>
-    </item>
-    <item>
-      <title>Recyclon</title>
-      <link>http://localhost:1313/projects/recyclon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/recyclon/</guid>
-      <description>UI/UX tasks to fulfill requirements for the Google UX Design Certificate.</description>
-    </item>
-    <item>
-      <title>YA&#39;s Travel</title>
-      <link>http://localhost:1313/projects/yas-travel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/yas-travel/</guid>
-      <description>UI/UX tasks to fulfill requirements for the Google UX Design Certificate.</description>
+      <guid>http://localhost:1313/projects/web-designs/</guid>
+      <description>Here are a few web designs I have created using Figma</description>
     </item>
   </channel>
 </rss>

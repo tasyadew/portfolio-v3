@@ -15,13 +15,6 @@
       <description>A top-down shooting game develop using GDevelop5</description>
     </item>
     <item>
-      <title>Rock Paper Scissor (Stardew Edition)</title>
-      <link>http://localhost:1313/projects/rock-paper-scissor-sv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/rock-paper-scissor-sv/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Frogger Blog</title>
       <link>http://localhost:1313/projects/frogger-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,18 +22,11 @@
       <description>A blog for my university course on Human-Computer Interaction</description>
     </item>
     <item>
-      <title>UTM Final Year Project Assessment</title>
-      <link>http://localhost:1313/projects/utm-fyp-assessment/</link>
+      <title>Web Designs Collection</title>
+      <link>http://localhost:1313/projects/web-designs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/utm-fyp-assessment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UTMExpress</title>
-      <link>http://localhost:1313/projects/utmexpress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/utmexpress/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/web-designs/</guid>
+      <description>Here are a few web designs I have created using Figma</description>
     </item>
   </channel>
 </rss>
